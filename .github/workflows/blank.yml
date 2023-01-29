@@ -27,5 +27,5 @@ jobs:
     - name: Upload .mcaddon
       uses: actions/upload-artifact@v2
       with:
-        name: capybaras-mod-${{ env.GITHUB_REF }}.mcaddon
+        name: capybaras-mod.mcaddon
         path: myaddon.mcaddon
