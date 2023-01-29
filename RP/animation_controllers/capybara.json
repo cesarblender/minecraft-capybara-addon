@@ -1,0 +1,49 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.capybara": {
+			"initial_state": "iddle",
+			"states": {
+				"iddle": {
+					"animations": [
+						"iddle"
+					],
+					"blend_transition": 0.2,
+					"transitions": [
+						{
+							"walk": "query.ground_speed"
+						},
+						{
+							"swim": "query.is_swimming"
+						}
+					]
+				},
+				"walk": {
+					"animations": [
+						"walk"
+					],
+					"blend_transition": 0.2,
+					"transitions": [
+						{
+							"iddle": "!query.ground_speed"
+						},
+						{
+							"swim": "query.is_swimming"
+						}
+					]
+				},
+				"swim": {
+					"animations": [
+						"swim"
+					],
+					"blend_transition": 0.2,
+					"transitions": [
+						{
+							"iddle": "!query.is_swimming"
+						}
+					]
+				}
+			}
+		}
+	}
+}

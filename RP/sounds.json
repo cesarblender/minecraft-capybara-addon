@@ -1,0 +1,27 @@
+{
+    "entity_sounds": {
+        "entities": {
+            "capybaras:capybara": {
+                "volume": 1,
+                "pitch": [0.9, 1.0],
+                "events": {
+                    "ambient": {
+                        "sound": "capybara.ambient",
+						"volume": 1,
+						"pitch": 1
+                    },
+                    "hurt": {
+                        "sound": "capybara.hurt",
+						"volume": 1,
+						"pitch": 0.7
+                    },
+                    "death": {
+                        "sound": "capybara.hurt",
+						"volume": 1,
+						"pitch": 0.5
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "capybaras:capybara",
+			"materials": {
+				"default": "pig"
+			},
+			"textures": {
+				"default": "textures/entity/capybara"
+			},
+			"geometry": {
+				"default": "geometry.capybara"
+			},
+			"render_controllers": [
+				"controller.render.capybara"
+			],
+			"spawn_egg": {
+				"base_color": "#A46D0F",
+				"overlay_color": "#5B3E03"
+			},
+			"animations": {
+				"look_at_target": "animation.common.look_at_target",
+				"iddle": "animation.capybara.iddle",
+				"swim": "animation.capybara.swim",
+				"walk": "animation.capybara.walk",
+				"controller": "controller.animation.capybara"
+			},
+			"scripts": {
+				"animate": [
+					"controller"
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Seokku"
+		]
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			19,
+			20
+		],
+		"uuid": "45768f62-3720-4ef9-9369-6e9bc3811e3f",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "5d179e4c-8a15-4184-8461-ad1ed6ad3e01",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "8c882e90-045b-4a9e-a621-b1fe5f5c65f1",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
