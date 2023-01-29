@@ -30,7 +30,7 @@ El loot de este mob es el mismo dejado por una **tortuga**.
 
 Este addon se encuentra disponible para la versión de **Minecraft Bedrock** **_1.19_** en adelante. Si no sabes cómo instalar addons para **Minecraft Bedrock**, [aquí](https://seokku.tk/posts/instalar-addons-minecraft) te dejamos otro artículo para que veas cómo implementar un addon en tu mundo.
 
-[Haz click aquí para descargar el addon para **Minecraft Bedrock 1.19 en adelante**]()
+[Haz click aquí para descargar el addon para **Minecraft Bedrock 1.19 en adelante**](https://github.com/seokkuuu/minecraft-capybara-addon/releases/download/v1.0.0.1/capybaras-v1.0.0-by-seokku.mcaddon)
 
 ## IMPORTANTE LEER
 
