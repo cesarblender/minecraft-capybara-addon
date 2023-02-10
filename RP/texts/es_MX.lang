@@ -1,4 +1,4 @@
 pack.name=Capibaras Paquete de recursos
-pack.description=Agrega Capibaras §l§cSI NO HAS DESCARGADO ESTE ADDON DESDE https://seokku.tk/ ELIMINALO INMEDIATAMENTE§r
+pack.description=Agrega Capibaras §l§cSI NO HAS DESCARGADO ESTE ADDON DESDE https://seokku.tk/ O https://github.com/seokkuuu/minecraft-capybara-addon ELIMINALO INMEDIATAMENTE§r
 entity.capybaras:capybara.name=Capibara
 item.spawn_egg.entity.capybaras:capybara.name=Generar Capibara
