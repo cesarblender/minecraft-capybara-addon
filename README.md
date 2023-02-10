@@ -15,7 +15,7 @@ Estos mismos, pueden reproducirse, siendo alimentándolos con **Fondo marino** (
 
 ## Comportamiento del mob dentro del juego
 
-Este mob se encuentra de manera natural en los biomas de **ríos**, **bosques**, **junglas**, **pantanos** y **manglares**. Los **capibaras** se desplazan aleatoriamente entre tierra y agua, nadando en áreas poco profundas y emergiendo a la superficie. Si se encuentran cerca de una **gallina** o un **loro**, estos animales pueden subir a la cabeza del **capibara**, pero este no podrá bajarlos, por lo que es recomendable tener un área de agua con poca profundidad cerca si se tiene un **capibara** como mascota y un **loro** o **gallina** en su cabeza. También, al ser considerado un roedor, los **capibaras** pueden ser atacados por **ocelotes**.
+Este mob se encuentra de manera natural en los biomas de **ríos**, **bosques**, **junglas**, **pantanos** y **manglares**. Los **capibaras** se desplazan aleatoriamente entre tierra y agua, nadando en áreas poco profundas y emergiendo a la superficie.
 
 ## Loot
 
